@@ -1,0 +1,14 @@
+Source: readline
+Priority: extra
+Maintainer: syslog-ng developers <syslog-ng@lists.balabit.hu>
+Build-Depends: pkg-config
+Standards-Version: 3.7.2
+Section: libs
+
+Package: readline
+Architecture: any
+Description: readline
+
+Package: readline-dbg
+Architecture: any
+Description: readline-dbg

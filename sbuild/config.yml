@@ -1,0 +1,6 @@
+name: readline
+builder:
+  name: ReadlineBuilder
+  flags: "no-make-dist"
+platforms:
+  - linux-glibc2.11/amd64

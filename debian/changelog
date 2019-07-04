@@ -1,0 +1,5 @@
+readline (8.0.0-1.syslogng70) syslogng70; urgency=medium
+
+  * initial release
+
+ -- Laszlo Varady <laszlo.varady@balabit.com>  Thu, 04 Jul 2019 13:22:04 +0200
